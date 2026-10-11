@@ -1,0 +1,10 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Configuraciones del editor VS Code (opcional, pero recomendado)
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
